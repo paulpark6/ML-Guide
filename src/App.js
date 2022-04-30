@@ -19,6 +19,8 @@ function App() {
           projects
           {certifications}
         </h1>
+        <h5>For certifications: <br/>
+        there is  AI-900 and DP-900 exams for microsoft</h5>
       </header>
     </>
   );
