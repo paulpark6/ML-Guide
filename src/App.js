@@ -6,7 +6,6 @@ import './App.css';
 function App() {
   let certifications = ["AWS", "Goole Cloud", "Microsoft Azure"];
   return (
-    <>
       <header className="background">
         <h1 className='titleBox'>
           <div className='titleText'>
@@ -44,7 +43,6 @@ function App() {
           </div>
         </h5>
       </header>
-    </>
   );
 }
 
